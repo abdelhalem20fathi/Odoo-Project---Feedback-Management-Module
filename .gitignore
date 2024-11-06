@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Odoo log and config files
+*.log
+odoo.conf
+
+# Virtual environment folder
+venv/
+env/
+
+# Ignore attachments and data files if they're not needed on GitHub
+*.dat
+*.csv
+*.pkl
+
+# Other sensitive files
+*.env
